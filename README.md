@@ -49,6 +49,11 @@
 - `/clean` - clean all raw files
 - `/rmd` - clean all downloaded files
 
+# How To Host 
+[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Xbaroxx/video-stream2&envs=SESSION_NAME,BOT_USERNAME,BOT_TOKEN,BOT_NAME,API_ID,API_HASH,SUDO_USERS,DURATION_LIMIT,UPDATES_CHANNEL,GROUP_SUPPORT,ASSISTANT_NAME,OWNER_NAME,ALIVE_NAME)
+
+
+
 ## Heroku Deployment 💜
 The easy way to host this bot, deploy to Heroku, Change the app country to Europe (it will help to make the bot stable).
 
